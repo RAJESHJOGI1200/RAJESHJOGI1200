@@ -1,7 +1,7 @@
 ![logo](https://github.com/RAJESHJOGI1200/RAJESHJOGI1200/blob/main/coverimage.png)  
 
 <h1 align="center">Hi 👋, I'm Rajesh Jogi</h1>  
-<h4 align="center">I am an aspiring Data Analyst and Data Engineer enthusiast with a passion for transforming raw data into actionable insights and building scalable, cloud-based data solutions. My skillset includes expertise in Python, SQL, Excel, Power BI, and Azure services. I’m dedicated to solving complex data challenges while continuously expanding my knowledge to grow as a data professional.</h4>  
+<h4 align="center">I am an aspiring Data Analyst and Data Engineer enthusiast with a passion for transforming raw data into actionable insights and building scalable, cloud-based data solutions. My skillset includes expertise in Python, SQL, Excel, Power BI, PySpark, and Azure services. I’m dedicated to solving complex data challenges while continuously expanding my knowledge to grow as a data professional.</h4>  
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">  
 
@@ -44,7 +44,7 @@ Here’s a glimpse of my hands-on experience in data-related projects:
 
 ---
 
-### Tech Stack & Tools 🛠️  
+### Languages & Tools 🛠️  
 <p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
@@ -60,6 +60,9 @@ Here’s a glimpse of my hands-on experience in data-related projects:
   </a>  
   <a href="https://databricks.com/" target="_blank" rel="noreferrer">  
     <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/>  
+  </a>  
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="pyspark" width="40" height="40"/>  
   </a>  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>  
