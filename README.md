@@ -49,8 +49,8 @@ Here’s a glimpse of my hands-on experience in data-related projects:
   <a href="https://www.python.org" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   </a>  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">  
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>  
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
   </a>  
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>  
@@ -67,8 +67,8 @@ Here’s a glimpse of my hands-on experience in data-related projects:
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>  
   </a>  
-  <a href="https://www.google.com/sheets/about/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Google_Sheets_logo.svg" alt="google sheets" width="40" height="40"/>  
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="excel" width="40" height="40"/>  
   </a>  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  
