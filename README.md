@@ -23,27 +23,6 @@
 
 ---
 
-### Projects 🚀  
-Here’s a glimpse of my hands-on experience in data-related projects:  
-
-1. **E-commerce Sales Dashboard**  
-   - Built an interactive Power BI dashboard to analyze sales trends and customer behavior.  
-   - Key Insights: YoY growth, top/bottom product performance, and regional sales distribution.  
-
-2. **Diabetes Prediction Model**  
-   - Designed a project to predict diabetes using health parameters and feature engineering.  
-   - Tools: Python (Pandas, Scikit-Learn), Data Cleaning, and Visualization.  
-
-3. **Olympics Medals Data Analysis**  
-   - Web-scraped medal data and analyzed medal trends and rankings with SQL queries.  
-   - Tools: Python (BeautifulSoup), MySQL Workbench.  
-
-4. **Smartphone Addiction Prediction**  
-   - Predicted smartphone addiction patterns using behavioral analysis and visualization.  
-   - Focus: Data Preprocessing, Python Analysis, and Model Evaluation.  
-
----
-
 ### Languages & Tools 🛠️  
 <p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">  
