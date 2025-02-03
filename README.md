@@ -18,7 +18,7 @@
 
 - 👨‍💻 **Ask Me About**:  
   - Data Analytics and Business Intelligence.  
-  - Cloud-based Data Engineering Solutions.  
+  - Cloud-based Data Engineering Solutions.   
   - Scalable Data Pipelines.  
 
 ---
