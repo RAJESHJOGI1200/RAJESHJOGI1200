@@ -8,7 +8,7 @@
 ---
 
 - 🔭 **What I Do**:  
-  - Data Analysis and Visualization using Power BI and Excel.  
+  - Data Analysis and Visualization using Power BI/Tableau and Excel.  
   - ETL Process Design for transforming data into insights.  
   - Data Exploration and Querying with SQL and Python.  
 
