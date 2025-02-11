@@ -13,7 +13,7 @@
   - Data Exploration and Querying with SQL and Python.  
 
 - 🌱 **Currently Learning**:  
-  <!-- **PySpark** for efficient big data processing. --> 
+  - **Market Research** related skills like IBM spss Statistics, Survay & Questionnaires. 
   - **Azure Services**: Data Lake, Data Warehouse, Databricks, and ETL pipelines.  
 
 - 👨‍💻 **Ask Me About**:  
