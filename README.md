@@ -18,8 +18,8 @@
 
 - 👨‍💻 **Ask Me About**:  
   - Data Analytics and Business Intelligence.  
-  - Cloud-based Data Engineering Solutions.   
-  - Scalable Data Pipelines.  
+  - Market Research Analysis and Visualization.   
+  - Data Processing.  
 
 ---
 
