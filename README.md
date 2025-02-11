@@ -13,13 +13,12 @@
   - Data Exploration and Querying with SQL and Python.  
 
 - 🌱 **Currently Learning**:  
-  - **Market Research** related skills like IBM spss Statistics, Survay & Questionnaires. 
+  - **Market Research** related skills like IBM spss Statistics, Survay & Questionnaires, Quantitative and Qualitative Research. 
   - **Azure Services**: Data Lake, Data Warehouse, Databricks, and ETL pipelines.  
 
 - 👨‍💻 **Ask Me About**:  
   - Data Analytics and Business Intelligence.  
-  - Market Research Analysis and Visualization.   
-  - Data Processing.  
+  - Market Research Analysis and Visualization.     
 
 ---
 
