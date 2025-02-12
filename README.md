@@ -28,37 +28,40 @@
 ## 🛠️ Languages & Tools  
 <p align="left">  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/><br>Python  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>  
   </a>  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/><br>MySQL  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="50"/>  
   </a>  
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/><br>Power BI  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>  
+  </a>  
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="90" height="50"/>  
   </a>  
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/><br>Azure  
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/>  
   </a>  
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/><br>Pandas  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>  
   </a>  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/><br>Scikit-Learn  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/>  
   </a>  
   <a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SPSS_Logo.png" alt="IBM SPSS" width="40" height="40"/><br>IBM SPSS  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SPSS_Logo.png" alt="IBM SPSS" width="50" height="50"/>  
   </a>  
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel" width="40" height="40"/><br>Excel  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel" width="50" height="50"/>  
   </a>  
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">  
-    <img src="https://seeklogo.com/images/A/atlassian-jira-logo-FD3E961BB2-seeklogo.com.png" alt="Atlassian JIRA" width="40" height="40"/><br>Atlassian JIRA  
+    <img src="https://seeklogo.com/images/A/atlassian-jira-logo-FD3E961BB2-seeklogo.com.png" alt="Atlassian JIRA" width="50" height="50"/>  
   </a>  
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/><br>Linux  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>  
   </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br>Git  
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>  
   </a>  
 </p>  
 
