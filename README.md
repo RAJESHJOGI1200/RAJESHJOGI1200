@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/RAJESHJOGI1200/RAJESHJOGI1200/blob/main/coverimage.png) -->
 
 <h1 align="center">Hi 👋, I'm Rajesh Jogi</h1>  
-<h4 align="center">I am an aspiring Data Analyst and Data Engineer enthusiast with a passion for transforming raw data into actionable insights and building scalable, cloud-based data solutions. My skillset includes expertise in Python, SQL, Excel, Power BI, PySpark, Azure services, and Market Research. I’m dedicated to solving complex data challenges while continuously expanding my knowledge to grow as a data professional.</h4>  
+<h4 align="center">I am an aspiring Data Analyst and Data Engineer enthusiast with a passion for transforming raw data into actionable insights and building scalable, cloud-based data solutions. My skillset includes expertise in Python, SQL, Excel, Power BI, SPSS, Azure services, and Market Research. I’m dedicated to solving complex data challenges while continuously expanding my knowledge to grow as a data professional.</h4>  
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">  
 
