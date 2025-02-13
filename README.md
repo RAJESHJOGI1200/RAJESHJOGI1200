@@ -9,7 +9,7 @@
 
 - 🔭 **What I Do**:  
   - Data Analysis and Visualization using **Power BI/Tableau** and **Excel**.  
-  - ETL Process Design for transforming data into insights.  
+  - ETL Process Design for transforming data into insights.   
   - Data Exploration and Querying with **SQL and Python**.  
   - **Market Research**: Analyzing survey data, customer insights, and trends.  
 
