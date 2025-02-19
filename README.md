@@ -11,7 +11,7 @@
   - Data Analysis and Visualization using **Power BI/Tableau** and **Excel**.  
   - ETL Process Design for transforming data into insights.   
   - Data Exploration and Querying with **SQL and Python**.  
-  - **Market Research**: Analyzing survey data, customer insights, and trends.  
+  - **Market Research**: Analyzing survey data, customer insights, and trends. 
 
 - 🌱 **Currently Learning**:  
   - **Market Research** skills including **IBM SPSS Statistics, Survey & Questionnaire Design, Quantitative and Qualitative Research, and Customer Behavior Analysis**.  
